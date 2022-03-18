@@ -4,3 +4,181 @@
 
 ## Cloud Practitioner
 
+- ⭐️ 은 반드시 알아야하는 내용
+- 그 외는 대략적인 내용은 알아야한다.
+
+### 1. 엑세스하는 3가지 방법
+
+1. AWS Management Console
+2. 명령줄 인터페이스
+3. 소프트웨어 개발 키트 (SDK)
+
+### 2. Computing ⭐️
+
+1. Amazon EC2 (Elastic Computing Cloud)
+2. EC2 Container Service
+3. EC2 Container Registry
+4. Amazon Lightsail
+5. AWS Batch
+6. AWS Elastic Beanstalk
+7. AWS Lambda
+8. Auto Scaling
+
+### 3. Storage ⭐️
+
+1. Amazon S3 (Simple Storage Service)
+2. Amazon Elastic Block Store
+3. Amazon Elastic File System
+4. Amazon Glacier
+5. AWS Storage Gateway
+
+### 4. Database ⭐️
+
+1. Amazon Aurora
+2. Amazon RDS (Relational Database Service)
+3. Amazon DynamoDB
+4. Amazon ElasticCache
+
+### 5. Migration
+
+1. AWS Application Discovery Service
+2. AWS Database Migration Service
+3. AWS Server Migration Service
+4. AWS Snowball
+5. AWS Snowball Edge
+6. AWS Snowmobile
+
+### 6. Networking and Content Delivery ⭐️
+
+1. Amazon VPC
+2. Amazon CloudFront
+3. Amazon Route 53
+4. AWS Direct Connect
+5. Elastic Load Balancing (ELB)
+
+### 7. Developer Tools
+
+1. AWS CodeCommit
+2. AWS CodeBuild
+3. AWS CodeDeploy
+4. AWS CodePipeline
+5. AWS X-Ray
+
+### 8. Management
+
+1. Amazon CloudWatch ⭐️
+2. Amazon EC2 Systems Manager
+3. AWS CloudFormation ⭐️
+4. AWS CloudTrail ⭐️
+5. AWS Config ⭐️
+6. AWS OpsWorks
+7. AWS Service Catalog
+8. AWS Trusted Advisor ⭐️
+9. AWS Personal Health Dashboard
+10. AWS Managed Services
+
+### 9. Security, Identity and Compliance
+
+1. Amazon Cloud Directory
+2. AWS IAM (Identity and Access Management) ⭐️
+3. Amazon Inspector ⭐️
+4. Amazon Certificate Manager
+5. AWS CloudHSM
+6. AWS Directory Service
+7. AWS Key Management Service
+8. AWS Organizations ⭐️
+9. AWS Shield ⭐️
+10. AWS WAF ⭐️
+
+### Analytics
+
+1. Amazon Athena ⭐️
+2. Amazon EMR ⭐️
+3. Amazon CloudSearch
+4. Amazon Elasticsearch Service
+5. Amazon Kinesis
+6. Amazon Redshift ⭐️
+7. Amazon QuickSight
+8. AWS Data Pipeline
+9. AWS Glue
+
+### Machine Learning
+
+1. Amazon Lex
+2. Amazon Polly
+3. Amazon Rekognition
+4. Amazon Machine Learning
+
+### Front-end Web and Mobile
+
+1. AWS Mobile Hub
+2. Amazon Cognito
+3. Amazon Pinpoint
+4. AWS Device Farm
+5. AWS Mobile SDK
+6. Amazon Mobile Analytics
+
+### Application Integration (Messaging 와 통합된듯)
+
+1. AWS Step Functions
+2. Amazon API Gateway
+3. Amazon Elastic Transcoder
+4. Amazon SWF
+5. Amazon SQS (Simple Queue Service) ⭐️
+6. Amazon SNS (Simple Notification Service) ⭐️
+7. Amazon SES (Simple Email Service)
+
+### 기업 생산성
+
+1. Amazon WorkDocs
+2. Amazon WorkMail
+3. Amazon Chime
+
+### 데스크톱 및 앱스트리밍
+
+1. Amazon WorkSpaces
+2. Amazon AppStream 2.0
+
+### IoT
+
+1. AWS IoT platform
+2. AWS Greengrass
+3. AWS IoT Button
+
+### Game Tech
+
+1. Amazon GameLift
+2. Amazon Lumberyard
+
+### ETC
+
+1. 공동 책임 모델 - Shared Responsibility Model ⭐️
+2. 비용 할당 태그 - Cost Allocation tags
+3. 조직에 대한 통합 결제 - Consolidated billing
+4. AWS Budgets
+5. APN 기술 파트너 - AWS Partner Network Technology Partners
+6. APN 컨설팅 파트너 - AWS Partner Network Consulting Partners
+7. AWS Cost Explorer
+8. 세부 결제 보고서 - Detailed Billing Report
+9. AWS Health
+10. Classic Load Balancer ⭐️
+11. Virtual Private Gateway
+12. AWS Simple Monthly Calculator
+13. AWS 총 소유 비용(TCO) 계산기
+14. AWS Professional Services
+15. AWS Artifact ⭐️
+16. AWS Schema Conversion Tool
+17. Amazon CloudWatch Logs
+18. Amazon Neptune
+19. Amazon SageMaker
+20. 정적 웹 사이트 호스팅 ⭐️
+21. AWS Personal Dashboard
+22. AWS Infrastructure Event Management
+23. 모놀리식 아키텍처와 마이크로서비스 아키텍처 비교
+24. 지원 계획 비교
+25. Amazon Machine Image (AMI) ⭐️
+26. AWS EC2 Systems Manager
+27. AWS Cost and Usage report
+28. AWS Fargate
+29. AWS Online Tech Talks
+30. AWS Aurora Backtrack
