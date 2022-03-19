@@ -15,7 +15,7 @@
 
 ### 2. Computing ⭐️
 
-1. Amazon EC2 (Elastic Computing Cloud)
+1. [Amazon EC2](Computing/AWS%20EC2.md) (Elastic Computing Cloud)
 2. EC2 Container Service
 3. EC2 Container Registry
 4. Amazon Lightsail
