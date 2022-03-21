@@ -10,14 +10,14 @@
 ### 1. 엑세스하는 3가지 방법
 
 1. AWS Management Console
-2. 명령줄 인터페이스
+2. 명령줄 인터페이스 (CLI)
 3. 소프트웨어 개발 키트 (SDK)
 
 ### 2. Computing ⭐️
 
 1. [Amazon EC2](Computing/AWS%20EC2.md) (Elastic Computing Cloud)
-2. EC2 Container Service
-3. EC2 Container Registry
+2. [EC2 Container Service](Computing/Amazon%20EC2%20Container%20Service.md)
+3. [EC2 Container Registry](Computing/Amazon%20EC2%20Container%20Registry.md)
 4. Amazon Lightsail
 5. AWS Batch
 6. AWS Elastic Beanstalk
