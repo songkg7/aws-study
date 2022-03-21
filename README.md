@@ -18,7 +18,7 @@
 1. [Amazon EC2](Computing/AWS%20EC2.md) (Elastic Computing Cloud)
 2. [EC2 Container Service](Computing/Amazon%20EC2%20Container%20Service.md)
 3. [EC2 Container Registry](Computing/Amazon%20EC2%20Container%20Registry.md)
-4. Amazon Lightsail
+4. [Amazon Lightsail](Computing/Amazon%20Lightsail.md)
 5. AWS Batch
 6. AWS Elastic Beanstalk
 7. AWS Lambda
