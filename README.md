@@ -22,7 +22,7 @@
 5. [AWS Batch](Computing/AWS%20Batch.md)
 6. [AWS Elastic Beanstalk](Computing/AWS%20Elastic%20Beanstalk.md)
 7. [AWS Lambda](AWS%20Lambda.md)
-8. Auto Scaling
+8. [Auto Scaling](Computing/Auto%20Scaling.md)
 
 ### 3. Storage ⭐️
 
