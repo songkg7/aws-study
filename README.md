@@ -21,7 +21,7 @@
 4. [Amazon Lightsail](Computing/Amazon%20Lightsail.md)
 5. [AWS Batch](Computing/AWS%20Batch.md)
 6. [AWS Elastic Beanstalk](Computing/AWS%20Elastic%20Beanstalk.md)
-7. AWS Lambda
+7. [AWS Lambda](AWS%20Lambda.md)
 8. Auto Scaling
 
 ### 3. Storage ⭐️
