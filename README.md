@@ -20,7 +20,7 @@
 3. [EC2 Container Registry](Computing/Amazon%20EC2%20Container%20Registry.md)
 4. [Amazon Lightsail](Computing/Amazon%20Lightsail.md)
 5. [AWS Batch](Computing/AWS%20Batch.md)
-6. AWS Elastic Beanstalk
+6. [AWS Elastic Beanstalk](Computing/AWS%20Elastic%20Beanstalk.md)
 7. AWS Lambda
 8. Auto Scaling
 
