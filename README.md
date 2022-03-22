@@ -26,7 +26,7 @@
 
 ### 3. Storage ⭐️
 
-1. Amazon S3 (Simple Storage Service)
+1. [Amazon S3](Storage/Amazon%20S3.md) (Simple Storage Service)
 2. Amazon Elastic Block Store
 3. Amazon Elastic File System
 4. Amazon Glacier
