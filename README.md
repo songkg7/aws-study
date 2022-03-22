@@ -31,6 +31,9 @@
 3. Amazon Elastic File System
 4. Amazon Glacier
 5. AWS Storage Gateway
+6. Amazon FSx for Lustre
+7. Amazon FSx for Windows File Server
+8. AWS Backup
 
 ### 4. Database ⭐️
 
