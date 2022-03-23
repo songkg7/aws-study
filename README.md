@@ -27,8 +27,8 @@
 ### 3. Storage ⭐️
 
 1. [Amazon S3](Storage/Amazon%20S3.md) (Simple Storage Service)
-2. Amazon Elastic Block Store
-3. Amazon Elastic File System
+2. [Amazon Elastic Block Store](Storage/Amazon%20Elastic%20Block%20Store.md)
+3. [Amazon Elastic File System](Storage/Amazon%20Elastic%20File%20System.md)
 4. Amazon Glacier
 5. AWS Storage Gateway
 6. Amazon FSx for Lustre
