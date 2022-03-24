@@ -26,15 +26,14 @@
 
 ### 3. Storage ⭐️
 
-1. [Amazon S3](Storage/Amazon%20S3.md) (Simple Storage Service)
-2. [Amazon Elastic Block Store](Storage/Amazon%20Elastic%20Block%20Store.md)
-3. [Amazon Elastic File System](Storage/Amazon%20Elastic%20File%20System.md)
-4. [Amazon S3 Glacier](Storage/Amazon%20S3%20Glacier.md)
-5. [AWS Backup](Storage/AWS%20Backup.md)
-6. AWS Storage Gateway
-7. Amazon FSx for Lustre
-8. Amazon FSx for Windows File Server
-9. AWS Backup
+1. [Amazon Elastic Block Store](Storage/Amazon%20Elastic%20Block%20Store.md)
+2. [Amazon Elastic File System](Storage/Amazon%20Elastic%20File%20System.md)
+3. Amazon FSx for Lustre
+4. Amazon FSx for Windows File Server
+5. [Amazon S3](Storage/Amazon%20S3.md) (Simple Storage Service)
+6. [Amazon S3 Glacier](Storage/Amazon%20S3%20Glacier.md)
+7. [AWS Backup](Storage/AWS%20Backup.md)
+8. [AWS Storage Gateway](Storage/AWS%20Storage%20Gateway.md)
 
 ### 4. Database ⭐️
 
