@@ -38,8 +38,8 @@
 ### 4. Database ⭐️
 
 1. [Amazon Aurora](Database/Amazon%20Aurora.md)
-2. Amazon DynamoDB
-3. [Amazon RDS](Database/Amazon%20RDS.md) (Relational Database Service)
+2. [Amazon RDS](Database/Amazon%20RDS.md) (Relational Database Service)
+3. [Amazon DynamoDB](Database/Amazon%20DynamoDB.md)
 4. Amazon ElasticCache
 
 ### 5. Migration
