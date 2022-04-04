@@ -56,7 +56,7 @@
 1. [Amazon VPC](Networking/Amazon%20VPC.md)
 2. [Amazon CloudFront](Networking/Amazon%20CloudFront.md)
 3. [Amazon Route 53](Networking/Amazon%20Route%2053.md)
-4. AWS Direct Connect
+4. [AWS Direct Connect](Networking/AWS%20Direct%20Connect.md)
 5. Elastic Load Balancing (ELB)
 
 ### 7. Developer Tools
