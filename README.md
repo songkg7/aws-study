@@ -44,7 +44,7 @@
 
 ### 5. Migration
 
-1. AWS Application Discovery Service
+1. [AWS Application Discovery Service](Migration/AWS%20Application%20Discovery%20Service.md)
 2. AWS Database Migration Service
 3. AWS Server Migration Service
 4. AWS Snowball
