@@ -57,7 +57,7 @@
 2. [Amazon CloudFront](Networking/Amazon%20CloudFront.md)
 3. [Amazon Route 53](Networking/Amazon%20Route%2053.md)
 4. [AWS Direct Connect](Networking/AWS%20Direct%20Connect.md)
-5. Elastic Load Balancing (ELB)
+5. [Elastic Load Balancing](Networking/Elastic%20Load%20Balancing.md) (ELB)
 
 ### 7. Developer Tools
 
