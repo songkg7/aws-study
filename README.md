@@ -69,7 +69,7 @@
 
 ### 8. Management
 
-1. Amazon CloudWatch ⭐️
+1. [Amazon CloudWatch](Management/Amazon%20CloudWatch.md) ⭐️
 2. Amazon EC2 Systems Manager
 3. AWS CloudFormation ⭐️
 4. AWS CloudTrail ⭐️
