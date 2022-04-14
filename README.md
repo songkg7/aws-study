@@ -73,7 +73,7 @@
 2. Amazon EC2 Systems Manager
 3. [AWS CloudFormation](Management/AWS%20CloudFormation.md) ⭐️
 4. [AWS CloudTrail](Management/AWS%20CloudTrail.md) ⭐️
-5. AWS Config ⭐️
+5. [AWS Config](Management/AWS%20Config.md) ⭐️
 6. AWS OpsWorks
 7. AWS Service Catalog
 8. AWS Trusted Advisor ⭐️
