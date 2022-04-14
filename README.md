@@ -72,7 +72,7 @@
 1. [Amazon CloudWatch](Management/Amazon%20CloudWatch.md) ⭐️
 2. Amazon EC2 Systems Manager
 3. [AWS CloudFormation](Management/AWS%20CloudFormation.md) ⭐️
-4. AWS CloudTrail ⭐️
+4. [AWS CloudTrail](Management/AWS%20CloudTrail.md) ⭐️
 5. AWS Config ⭐️
 6. AWS OpsWorks
 7. AWS Service Catalog
