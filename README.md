@@ -76,7 +76,7 @@
 5. [AWS Config](Management/AWS%20Config.md) ⭐️
 6. AWS OpsWorks
 7. AWS Service Catalog
-8. AWS Trusted Advisor ⭐️
+8. [AWS Trusted Advisor](Management/AWS%20Trusted%20Advisor.md) ⭐️
 9. AWS Personal Health Dashboard
 10. AWS Managed Services
 
