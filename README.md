@@ -83,7 +83,7 @@
 ### 9. Security, Identity and Compliance
 
 1. Amazon Cloud Directory
-2. AWS IAM (Identity and Access Management) ⭐️
+2. [AWS IAM (Identity and Access Management)](Security/AWS%20Identity%20and%20Access%20Management.md) ⭐️
 3. Amazon Inspector ⭐️
 4. Amazon Certificate Manager
 5. AWS CloudHSM
