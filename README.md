@@ -84,7 +84,7 @@
 
 1. Amazon Cloud Directory
 2. [AWS IAM (Identity and Access Management)](Security/AWS%20Identity%20and%20Access%20Management.md) ⭐️
-3. Amazon Inspector ⭐️
+3. [Amazon Inspector](Security/Amazon%20Inspector.md) ⭐️
 4. Amazon Certificate Manager
 5. AWS CloudHSM
 6. AWS Directory Service
