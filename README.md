@@ -89,7 +89,7 @@
 5. AWS CloudHSM
 6. AWS Directory Service
 7. AWS Key Management Service
-8. AWS Organizations ⭐️
+8. [AWS Organizations](Security/AWS%20Organizations.md) ⭐️
 9. AWS Shield ⭐️
 10. AWS WAF ⭐️
 
