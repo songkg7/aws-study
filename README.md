@@ -91,7 +91,7 @@
 7. AWS Key Management Service
 8. [AWS Organizations](Security/AWS%20Organizations.md) ⭐️
 9. [AWS Shield](Security/AWS%20Shield.md) ⭐️
-10. AWS WAF ⭐️
+10. [AWS WAF](Security/AWS%20WAF.md) ⭐️
 
 ### Analytics
 
