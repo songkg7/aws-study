@@ -96,7 +96,7 @@
 ### Analytics
 
 1. [Amazon Athena](Analysis/Amazon%20Athena.md) ⭐️
-2. Amazon EMR ⭐️
+2. [Amazon EMR](Analysis/Amazon%20EMR.md) ⭐️
 3. Amazon CloudSearch
 4. Amazon Elasticsearch Service
 5. Amazon Kinesis
