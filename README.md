@@ -100,7 +100,7 @@
 3. Amazon CloudSearch
 4. Amazon Elasticsearch Service
 5. Amazon Kinesis
-6. Amazon Redshift ⭐️
+6. [Amazon Redshift](Analysis/Amazon%20Redshift.md) ⭐️
 7. Amazon QuickSight
 8. AWS Data Pipeline
 9. AWS Glue
