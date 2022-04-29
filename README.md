@@ -127,7 +127,7 @@
 2. Amazon API Gateway
 3. Amazon Elastic Transcoder
 4. Amazon SWF
-5. Amazon SQS (Simple Queue Service) ⭐️
+5. [Amazon SQS](Application%20Integration/Amazon%20SQS.md) (Simple Queue Service) ⭐️
 6. Amazon SNS (Simple Notification Service) ⭐️
 7. Amazon SES (Simple Email Service)
 
