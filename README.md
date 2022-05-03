@@ -129,7 +129,7 @@
 4. Amazon SWF
 5. [Amazon SQS](Application%20Integration/Amazon%20SQS.md) (Simple Queue Service) ⭐️
 6. [Amazon SNS](Application%20Integration/Amazon%20SNS.md) (Simple Notification Service) ⭐️
-7. Amazon SES (Simple Email Service)
+7. [Amazon SES](Application%20Integration/Amazon%20SES.md) (Simple Email Service)
 
 ### 기업 생산성
 
