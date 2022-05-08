@@ -62,7 +62,7 @@
 ### 7. Developer Tools
 
 1. [AWS CodeCommit](Developer%20Tools/AWS%20CodeCommit.md)
-2. AWS CodeBuild
+2. [AWS CodeBuild](Developer%20Tools/AWS%20CodeBuild.md)
 3. AWS CodeDeploy
 4. AWS CodePipeline
 5. AWS X-Ray
